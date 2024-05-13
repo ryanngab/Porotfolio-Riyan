@@ -1,0 +1,1 @@
+document.getElementById('tahun-hak-cipta').innerText = new Date().getFullYear()
